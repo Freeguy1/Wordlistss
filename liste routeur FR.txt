@@ -1,0 +1,76 @@
+Livebox wanadoo orange/Mini Thomson/(Pro)Sagem/Inventel:
+http://192.168.1.1/
+telnet 192.168.1.1
+
+9box/Sfr/Trio:
+http://192.168.1.1/
+
+9box f@st 3302:
+http://192.168.30.1/
+
+Alicebox/Pirelli DRG-AE225G/PM203:
+http://192.168.1.1/
+
+Alicebox Sagem f@st 3302:
+http://192.168.1.1/
+
+BBox Sagem F@st 3464
+http://192.168.1.1
+
+Fon (fonera):
+http://192.168.10.1/
+
+Netopia 3342/3352/3347/3357:
+http://192.168.1.1/
+
+Bouygues Box:
+http://192.168.1.254
+
+CN:
+ http://192.168.0.1/
+
+Triway:
+http://192.168.1.1/
+http://192.168.2.1/
+
+Tiscali/Hitachi/ah-4021/4022:
+http://192.168.2.1/
+
+Linksys/wag200g:
+http://192.168.1.1/
+
+Club internet:
+http://192.168.1.1/
+
+Aolbox Inventel D5213:
+http://192.168.1.1/
+http://config.aolbox/
+
+Cegetel Sagem f@st 3302:
+http://192.168.30.1/
+
+Dartybox Sagem f@st 3304:
+http://192.168.1.254/
+
+Numericable/Noos/Netgear/cvg834g/DG834N
+http://192.168.0.1
+
+Speedtouch
+http://192.168.1.254
+Speedtouch 510/530
+http://10.0.0.138/
+
+http://192.168.11.1
+http://192.168.0.50
+http://192.168.0.30
+
+1.2.3.4
+10.1.10.1
+192.168.0.5
+192.168.0.227
+192.168.0.250
+192.168.1.254
+192.168.2.1
+192.168.3.1
+192.168.123.254
+192.168.242.242
